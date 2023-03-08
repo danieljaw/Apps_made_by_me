@@ -1,4 +1,4 @@
-# Apps_made_by_me
+# Apps made by me
 here I will share all the applications I have created
 
 
