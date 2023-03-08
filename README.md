@@ -21,7 +21,8 @@ Intentionally, I know I will want to update long-published apps. Each one will s
 
 
 # First uploaded app (v.2.03)
-PasswordGenerator
+## PasswordGenerator
+## More info in connected folder in this repository
 
 
 ![Simulator Screen Shot - iPhone 11 - 2023-03-08 at 10 05 08](https://user-images.githubusercontent.com/105592142/223675772-3ea7911a-6c92-4c0e-ab2c-dcce005b1962.png)
