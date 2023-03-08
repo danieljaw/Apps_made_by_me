@@ -22,6 +22,20 @@ Intentionally, I know I will want to update long-published apps. Each one will s
 
 # First uploaded app (v.2.03)
 ## PasswordGenerator
+
+The application is designed to develop the ability to use both the basics and extended topics related to syntaxes, loops and more. 
+The highlights of this project (v 2.03) are: 
+
+1. setting up more than five screens (ViewController).
+2. connecting them using Segue.
+3. Setting the necessary distances between buttons.
+4. Writing the code that will generate the password. All coupled to the selectable buttons. 
+4.1* The same code is available from me in JAVA/Kotlin - in the Java/Kotlin repository
+
+
+5. More comming soon :)
+
+
 ## More info in connected folder in this repository
 
 
