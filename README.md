@@ -13,3 +13,12 @@ I try to make sure that I also show sample ideas here to help me become a better
 
 ### Updating
 Intentionally, I know I will want to update long-published apps. Each one will show the learning process.
+
+
+
+
+
+
+
+# First uploaded app (v.2.03)
+PasswordGenerator
